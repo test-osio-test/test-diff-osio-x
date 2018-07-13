@@ -12,7 +12,6 @@ To run this booster on your local host:
 ----
 $ git clone git@github.com:piyush1594/test-diff-osio-x
 
-$ cd test-diff-osio-x
 
 $ mvn compile vertx:run
 ----
